@@ -6,4 +6,4 @@ This repository contains a collection of mini projects built using **React.js**.
 
 - 🔢 [Counter App](https://ankora.onrender.com) – A simple and interactive counter app!
 
--  🔢 [Bg Color Changer](https://colorpop.onrender.com) – A simple and interactive counter app! 
+-  🎨 [Bg Color Changer](https://colorpop.onrender.com) – A simple and interactive counter app! 
